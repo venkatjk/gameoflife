@@ -1,3 +1,1 @@
 # gameoflife
-vv
-fg
