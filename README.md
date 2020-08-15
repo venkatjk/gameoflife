@@ -1,3 +1,2 @@
 # gameoflife
-sfdf
-fdf
+
