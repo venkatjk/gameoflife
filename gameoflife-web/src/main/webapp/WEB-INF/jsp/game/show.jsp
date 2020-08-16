@@ -108,7 +108,7 @@
             </c:forEach>
         </table>
         </p>
-        <button type="submit" id="submit">Next Generation</button>
+        <button type="submit" id="submit">Next Generation Devops Class.......</button>
     </form>
 </div>
 <%
